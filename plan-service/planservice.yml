@@ -1,0 +1,7 @@
+plan:
+ permium:
+  min: 1000
+  max: 3000
+ type: HEALTH,DENTAL,VISION
+ state: IL,NM,MT,TX
+ code: P,D,V

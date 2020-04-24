@@ -1,0 +1,11 @@
+rate:
+  healthplanrate/year:
+    min: $34.5
+    max: $85.8
+  dentalplanrate/year:
+    min: $55.3
+    max: $94.7
+  visionplanrate/year:
+    min: $24.8
+    max: $36.2
+  
